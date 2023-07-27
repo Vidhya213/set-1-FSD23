@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: cursive;
+}
+body {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
